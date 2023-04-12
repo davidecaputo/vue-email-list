@@ -15,6 +15,6 @@ createApp({
       }
     },
     mounted() {
-      
+      this.getData();
     }
 }).mount('#app')
